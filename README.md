@@ -63,8 +63,8 @@ This repository contains various Java solutions to common data structure and alg
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/data-structures-algorithms.git
-   cd datastructres and then 
-javac <filename>.java
-java <classname>
+   cd datastructres and then
+   javac <filename>.java
+   java <classname>
 
   
